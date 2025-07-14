@@ -11,7 +11,7 @@ SproutSpace is an intuitive mobile application that helps home gardeners diagnos
 - [Use Cases](#use-cases)
 - [Future Directions](#future-directions)
 - [Team](#team)
-- 
+  
 ---
 
 ## Overview
