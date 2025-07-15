@@ -38,13 +38,25 @@ Users simply take a photo of their plant or connect an optional external sensor,
 
 ##  Sample Pages (Mockups)
 
-- **Landing Page**: Welcoming screen with intro and login
-- **User Dashboard**: View your garden, progress, and achievements
-- **Scan Page**: Upload plant photos or sensor data
-- **Diagnosis Page**: See results and care instructions
-- **Gardening Calendar**: Smart reminders and seasonal tips
-- **Community Hub**: Participate in forums and leaderboards
-- **Admin Dashboard**: Manage AI training data and user content
+### Top of Home Page
+![Top Home Page](images/TopHomePage.png)  
+*Top section of the landing page with app branding and navigation.*
+
+### Second Homepage view (middle)
+![How It Works](images/HowWorks.png)  
+*Middle of the homepage wiht a simple overview of how users interact with SproutSpace.*
+
+### Log In
+![Sign In](images/SignIn.png)  
+*Login page for returning users.*
+
+### Create Account
+![Create Account](images/CreateAccount.png)  
+New user registration page to set up a gardening profile.*
+
+### Bottom of Home Page
+![Bottom Home Page](images/BottomHomePage.png)  
+*App footer section with links and calls to action.*
 
 ---
 
