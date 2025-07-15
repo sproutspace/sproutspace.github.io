@@ -1,4 +1,4 @@
-# SproutSpace: AI Powered Plant Health Diagnostics
+# SproutSpace
 
 SproutSpace is an intuitive mobile application that helps home gardeners diagnose plant health issues using AI powered multispectral imaging. Whether you're nurturing houseplants or managing a backyard garden, SproutSpace provides personalized, science backed recommendations to help your plants thrive.
 
