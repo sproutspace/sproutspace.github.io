@@ -82,7 +82,7 @@ New user registration page to set up a gardening profile.*
 
 - Kara Kanetis
 - Shelby Dixon  
-- Tamela
+- Tamela Brinson
 
 Project developed at the University of Hawaiʻi at Mānoa as part of ICS coursework.
 Visit the repository on GitHub: [github.com/sproutspace/sproutspace.github.io](https://github.com/sproutspace/sproutspace.github.io)
