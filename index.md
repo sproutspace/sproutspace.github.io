@@ -14,6 +14,11 @@ SproutSpace is an intuitive mobile application that helps home gardeners diagnos
   
 ---
 
+## Team Contract
+
+[View Team Contract](./team-contract.md)
+
+
 ## Overview
 
 Many home gardeners struggle to identify what's wrong with their plants, whether it's a nutrient deficiency, pest, or disease. SproutSpace bridges that gap using computer vision and machine learning.
