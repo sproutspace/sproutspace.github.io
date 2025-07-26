@@ -50,4 +50,4 @@ Each team member agrees to:
 
 ---
 
-*Signed and agreed to by all team members on [Insert Date Here].*
+*Signed and agreed to by all team members on July 25, 2025.*
