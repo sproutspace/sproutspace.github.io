@@ -82,7 +82,7 @@ New user registration page to set up a gardening profile.*
 ## User Dashboard
 ![User Dashboard](images/TopDashboard.jpg)
 
-![User Dashboard](images/BottomDashboard.jpg)
+![User Dashboard](images/BottonDashboard.jpg)
 *Where the user will find all the neccessities to enjoy the site*
 
 ---
