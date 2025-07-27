@@ -1,13 +1,37 @@
 # sproutspace.github.io
-An intuitive mobile application leveraging AI-powered multispectral imaging to help home gardeners diagnose plant health issues and receive actionable recommendations.
 
+SproutSpace is an intuitive mobile/web application leveraging AI-powered multispectral imaging to help home gardeners diagnose plant health issues and receive tailored care recommendations.
 
-This repo contains the documentation for the SproutSpace system.  
-See [index.md](index.md) for the source, or go to [https://sproutspace.github.io](https://sproutspace.github.io).
+This repository contains the documentation and informational content for the SproutSpace system.
 
-## SproutSpace Working Prototype (v2)
+Visit the site at: [https://sproutspace.github.io](https://sproutspace.github.io)
 
-You can view the fully functional prototype here:  
-👉 [View SproutSpace on Vercel](https://sproutspace-vercel.vercel.app/)
- [https://github.com/sdixon4/sproutspace-dev](https://github.com/sdixon4/sproutspace-dev)
+---
+
+## SproutSpace Functional Prototype (v2)
+
+You can access the working prototype of SproutSpace here:
+
+**Live Deployment (Vercel):**  
+[https://sproutspace-stqrjatq7-sproutspace.vercel.app](https://sproutspace-stqrjatq7-sproutspace.vercel.app)
+
+**Source Code (GitHub):**  
+[https://github.com/sdixon4/sproutspace-dev](https://github.com/sdixon4/sproutspace-dev)
+
+---
+
+## Contents
+
+- `index.md`: Project overview and team background
+- `team-contract.md`: Collaboration and scope agreement
+- `images/`: UI mockups and concept visuals
+- `v2-dev/`: Source code and assets for the Vite-based working prototype
+
+---
+
+## Contributors
+
+This project is developed as part of ICS 314 Summer 2025.  
+Please refer to the team contract for roles and responsibilities.
+
 
