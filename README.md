@@ -25,7 +25,7 @@ You can access the working prototype of SproutSpace here:
 - `index.md`: Project overview and team background
 - `team-contract.md`: Collaboration and scope agreement
 - `images/`: UI mockups and concept visuals
-- `v2-dev/`: Source code and assets for the Vite-based working prototype
+
 
 ---
 
