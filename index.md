@@ -65,13 +65,13 @@ New user registration page to set up a gardening profile.*
 
 ## Plant Diagnostics
 ![Top Plant Diagnostics](images/TopPlantDiagnostics.jpg)
-
+## Bottom - Plant Diagnostics
 ![Top Plant Diagnostics](images/BottomPlantDiagnostics.jpg)
 *Page for uploading pictures of plants for further diagnostics*
 
 ## Edit Profile
 ![Edit Profile Page](images/TopEditProfile.jpg)
-
+## Bottom - Edit Profile
 ![Edit Profile Page](images/MidBottomProfile.jpg)
 *Page for editing user informaiton and finding settings*
 
@@ -81,7 +81,7 @@ New user registration page to set up a gardening profile.*
 
 ## User Dashboard
 ![User Dashboard](images/TopDashboard.jpg)
-
+## Bottom - User Dashboard
 ![User Dashboard](images/BottonDashboard.jpg)
 *Where the user will find all the neccessities to enjoy the site*
 
