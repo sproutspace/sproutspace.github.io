@@ -7,7 +7,7 @@ SproutSpace is an intuitive mobile application that helps home gardeners diagnos
 ## Table of Contents
 - [Overview](#overview)
 - [Key Features](#key-features)
-- [Sample Pages (Mockups)](#sample-pages-mockups)
+- [Page Screenshots](#screenshots)
 - [Use Cases](#use-cases)
 - [Future Directions](#future-directions)
 - [Team](#team)
@@ -31,6 +31,14 @@ Users simply take a photo of their plant or connect an optional external sensor,
 
 ---
 
+##  Links: 
+
+- **Github Organization**: [SproutSpace GitHub Organization](https://github.com/sproutspace)
+- **Live Deployment**: [SproutSpace on Vercel](https://sproutspace-stqrjatq7-sproutspace.vercel.app/)
+
+---
+
+
 ##  Key Features
 
 - **Multispectral Imaging**: Upload smartphone photos or connect external sensors via Bluetooth
@@ -41,7 +49,8 @@ Users simply take a photo of their plant or connect an optional external sensor,
 
 ---
 
-##  Sample Pages (Mockups)
+##  Screenshots
+The following screenshots show the current state of the application:
 
 ### Top of Home Page
 ![Top Home Page](images/TopHomePage.png)  
@@ -95,6 +104,15 @@ New user registration page to set up a gardening profile.*
 - **Admin Role**: Maintain AI accuracy, update models, and moderate forums
 
 ---
+
+## Milestones
+- **Project Page: Milestone 1**: This milestone focused on establishing the project structure and core components.
+- **Project Page: Milestone 2**: This milestone implemented more advanced and functional features
+- **Project Page: Milestone 3**: This milestone is in its final stages of deployment.
+
+---
+## User Guide
+
 
 ##  Future Directions
 
