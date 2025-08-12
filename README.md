@@ -13,7 +13,7 @@ Visit the site at: [https://sproutspace.github.io](https://sproutspace.github.io
 You can access the working prototype of SproutSpace here:
 
 **Live Deployment (Vercel):**  
-[https://sproutspace-stqrjatq7-sproutspace.vercel.app](https://sproutspace-stqrjatq7-sproutspace.vercel.app)
+[https://sproutspace-dev.vercel.app/](https://sproutspace-dev.vercel.app/)
 
 **Source Code (GitHub):**  
 [https://github.com/sdixon4/sproutspace-dev](https://github.com/sdixon4/sproutspace-dev)
